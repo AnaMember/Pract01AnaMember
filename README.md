@@ -1,0 +1,1 @@
+Este repositorio contiene la solución a la Práctica 1, la cual consiste en el diseño de un algoritmo y su representación en un diagrama de flujo para calcular el consumo mensual de agua de un hogar y clasificarlo según categorías predefinidas.
